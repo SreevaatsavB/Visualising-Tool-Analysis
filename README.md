@@ -6,3 +6,5 @@ This is a flask-based web-application for the faculty and students to view and a
 
 Firstly, install the requirements with this command :- **pip install -r requirements.txt**
 And then move to the **Main_folder** directory.
+
+The, run **python main.py** to run the flask application which in the local server. 
